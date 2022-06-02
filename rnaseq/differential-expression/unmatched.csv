@@ -1,0 +1,64 @@
+Input,Match type,Approved symbol,Approved name,HGNC ID,Location,EntrezID
+SRGAP2D,Approved symbol,SRGAP2D,SLIT-ROBO Rho GTPase activating protein 2D (pseudogene),HGNC:43932,1q21.1,100996712
+HIST2H2AA4,Previous symbol,H2AC19,H2A clustered histone 19,HGNC:29668,1q21.2,
+HIST2H2AA3,Previous symbol,H2AC18,H2A clustered histone 18,HGNC:4736,1q21.2,
+LOC105371622,Unmatched,,,,,105371622
+HIST2H2BE,Previous symbol,H2BC21,H2B clustered histone 21,HGNC:4760,1q21.2,
+KIAA0754,Previous symbol,MACF1,microtubule actin crosslinking factor 1,HGNC:13664,1p34.3,
+NUDT4P2,Approved symbol,NUDT4P2,nudix hydrolase 4 pseudogene 2,HGNC:18013,1q21.1,170688
+ANO7L1,Approved symbol,ANO7L1,anoctamin 7 like 1 (pseudogene),HGNC:32248,1p36.13,101927546
+LOC101927741,Unmatched,,,,,101927741
+MARCH4,Previous symbol,MARCHF4,membrane associated ring-CH-type finger 4,HGNC:29269,2q35,
+KIAA1211,Previous symbol,CRACD,capping protein inhibiting regulator of actin dynamics,HGNC:29219,4q12,
+TMEM173,Previous symbol,STING1,stimulator of interferon response cGAMP interactor 1,HGNC:27962,5q31.2,
+FLJ32255,Unmatched,,,,,643977
+C5orf56,Previous symbol,IRF1-AS1,IRF1 antisense RNA 1,HGNC:33838,5q31.1,441108
+LOC105378075,Unmatched,,,,,105378075
+LOC101928906,Unmatched,,,,,101928906
+LOC105376014,Unmatched,,,,,
+ARMC4,Previous symbol,ODAD2,outer dynein arm docking complex subunit 2,HGNC:25583,10p12.1,
+C11orf95,Previous symbol,ZFTA,zinc finger translocation associated,HGNC:28449,11q13.1,
+RARRES3,Previous symbol,PLAAT4,phospholipase A and acyltransferase 4,HGNC:9869,11q12.3,
+LOC100126784,Unmatched,,,,,
+PLA2G16,Previous symbol,PLAAT3,phospholipase A and acyltransferase 3,HGNC:17825,11q12.3-q13.1,
+WARS,Previous symbol,WARS1,tryptophanyl-tRNA synthetase 1,HGNC:12729,14q32.2,
+HIF1A-AS2,Approved symbol,HIF1A-AS2,HIF1A antisense RNA 2,HGNC:43015,14q23.2,100750247
+SNHG14,Approved symbol,SNHG14,small nucleolar RNA host gene 14,HGNC:37462,15q11.2,104472715
+LOC100419583,Unmatched,,,,,100419583
+PWAR6,Approved symbol,PWAR6,Prader Willi/Angelman region RNA 6,HGNC:49129,15q11.2,100506965
+TARSL2,Previous symbol,TARS3,threonyl-tRNA synthetase 3,HGNC:24728,15q26.3,
+SERF2-C15ORF63,Unmatched,,,,,100529067
+SEPT4,Previous symbol,SEPTIN4,septin 4,HGNC:9165,17q22,
+C17orf51,Previous symbol,LINC02693,long intergenic non-protein coding RNA 2693,HGNC:27904,17p11.2,
+C19orf66,Previous symbol,SHFL,shiftless antiviral inhibitor of ribosomal frameshifting,HGNC:25649,19p13.2,
+CEBPB-AS1,Approved symbol,CEBPB-AS1,CEBPB antisense RNA 1,HGNC:51226,20q13.13,101927559
+LOC112268296,Unmatched,,,,,
+SEPT6,Previous symbol,SEPTIN6,septin 6,HGNC:15848,Xq24,
+FAM189B_1,Unmatched,,,,,
+CRIM1-DT_1,Unmatched,,,,,
+SLC12A7_1,Unmatched,,,,,
+HLA-A_1,Unmatched,,,,,
+LY6E_1,Unmatched,,,,,
+GSDMD_1,Unmatched,,,,,
+LOC100419583_1,Unmatched,,,,,
+B2M_1,Unmatched,,,,,
+ABCC1_1,Unmatched,,,,,
+DDX52_1,Unmatched,,,,,
+PIP4K2B_1,Unmatched,,,,,
+CCL5_1,Unmatched,,,,,
+BTG3_1,Unmatched,,,,,
+IFNGR2_1,Unmatched,,,,,
+HLA-B_1,Unmatched,,,,,
+HLA-A_2,Unmatched,,,,,
+HLA-C_1,Unmatched,,,,,
+ARHGAP11A_3,Unmatched,,,,,
+HERC2_2,Unmatched,,,,,
+CCL4L1,Approved symbol,CCL4L1,C-C motif chemokine ligand 4 like 1,HGNC:10631,17q12 alternate reference locus,388372
+PPP2R3B_3,Unmatched,,,,,
+HLA-C_2,Unmatched,,,,,
+CLN8_1,Unmatched,,,,,
+HLA-A_4,Unmatched,,,,,
+HLA-C_3,Unmatched,,,,,
+HLA-B_3,Unmatched,,,,,
+HLA-B_4,Unmatched,,,,,
+KIFC1_2,Unmatched,,,,,
